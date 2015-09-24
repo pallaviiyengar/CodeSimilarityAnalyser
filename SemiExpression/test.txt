@@ -1,0 +1,16 @@
+/*
+ * test.txt - test file for SemiExp
+ */
+
+#include <string>
+
+void
+testFun(
+void
+)
+{ 
+  int x; 
+  std::string str = "this is a string";
+}
+
+// the end

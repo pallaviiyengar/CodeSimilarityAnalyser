@@ -1,0 +1,13 @@
+<? xml version="1.0" ?>
+<!-- top level comment -->
+<root att1="val1" att2="val2">
+  <!-- comment in root's body -->
+  <child1 c1name="c1value">
+  </child1>
+  <!-- another root's body comment -->
+  <child2>
+    <grandchild21>
+    </grandchild21>
+  </child2>
+  root's body
+</root>
